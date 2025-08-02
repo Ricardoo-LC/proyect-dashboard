@@ -15,3 +15,7 @@
     ```bash
     npm run dev
     ```
+
+3. Ingresar con las siguientes credenciales:
+   email: test@test.com
+   password: 123
